@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kiVhGCM/O6YmvfkDMTvoWJzaJF04lYEuxLy5WbO4uq88R4pnknl93J1muekel0maiWrYwrNhswharF04ky2I2Q==",
+  "dgSpecHash": "iOgfHptSbR0TPV3CuD6ZFWhwMNRYNqVpSEqaYU/2UeXTXcdYX3CKTkZ/mF7wS20zoFE8+8Tjd3WdoSO+MZpkzQ==",
   "success": true,
-  "projectFilePath": "D:\\.net project\\Expence tracker\\Expense tracker.csproj",
+  "projectFilePath": "D:\\.net project\\Expense tracker\\Expense tracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vito4ka\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Vito4ka\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

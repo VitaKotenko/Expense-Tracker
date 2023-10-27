@@ -11291,11 +11291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net project\\Expence tracker\\Expense tracker.csproj",
+      "projectUniqueName": "D:\\.net project\\Expense tracker\\Expense tracker.csproj",
       "projectName": "Expense tracker",
-      "projectPath": "D:\\.net project\\Expence tracker\\Expense tracker.csproj",
+      "projectPath": "D:\\.net project\\Expense tracker\\Expense tracker.csproj",
       "packagesPath": "C:\\Users\\Vito4ka\\.nuget\\packages\\",
-      "outputPath": "D:\\.net project\\Expence tracker\\obj\\",
+      "outputPath": "D:\\.net project\\Expense tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vito4ka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11370,7 +11370,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
